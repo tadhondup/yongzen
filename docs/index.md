@@ -1,15 +1,15 @@
-# Welcome to MkDocs
+# སློབ་ཚན་འདིར་ཕེབས་པར་དགའ་བསུ་ཞུ།
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+སློབ་ཚན་དང་འབྲེལ་བའི་ཆ་ཤས་ཡོངས་ལ་བལྟ་འདོད་ཚེ་དྲ་ཐག་འདི་ལ་གཟིགས།
 
-## Commands
+## ལས་རིགས་རྣམ་བཞག
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
-## Project layout
+## ལས་གཞིའི་ཞིབ་ཕྲ།
 
     mkdocs.yml    # The configuration file.
     docs/
